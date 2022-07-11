@@ -1,0 +1,15 @@
+C:\Users\succe\source\repos\ComtradeConsole\bin\Debug\netcoreapp3.1\ComtradeConsole.exe
+C:\Users\succe\source\repos\ComtradeConsole\bin\Debug\netcoreapp3.1\ComtradeConsole.deps.json
+C:\Users\succe\source\repos\ComtradeConsole\bin\Debug\netcoreapp3.1\ComtradeConsole.runtimeconfig.json
+C:\Users\succe\source\repos\ComtradeConsole\bin\Debug\netcoreapp3.1\ComtradeConsole.runtimeconfig.dev.json
+C:\Users\succe\source\repos\ComtradeConsole\bin\Debug\netcoreapp3.1\ComtradeConsole.dll
+C:\Users\succe\source\repos\ComtradeConsole\bin\Debug\netcoreapp3.1\ComtradeConsole.pdb
+C:\Users\succe\source\repos\ComtradeConsole\obj\Debug\netcoreapp3.1\ComtradeConsole.csprojAssemblyReference.cache
+C:\Users\succe\source\repos\ComtradeConsole\obj\Debug\netcoreapp3.1\ComtradeConsole.AssemblyInfoInputs.cache
+C:\Users\succe\source\repos\ComtradeConsole\obj\Debug\netcoreapp3.1\ComtradeConsole.AssemblyInfo.cs
+C:\Users\succe\source\repos\ComtradeConsole\obj\Debug\netcoreapp3.1\ComtradeConsole.dll
+C:\Users\succe\source\repos\ComtradeConsole\obj\Debug\netcoreapp3.1\ComtradeConsole.pdb
+C:\Users\succe\source\repos\ComtradeConsole\obj\Debug\netcoreapp3.1\ComtradeConsole.genruntimeconfig.cache
+C:\Users\succe\source\repos\ComtradeConsole\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\succe\source\repos\ComtradeConsole\obj\Debug\netcoreapp3.1\ComtradeConsole.csproj.CoreCompileInputs.cache
+C:\Users\succe\source\repos\ComtradeConsole\obj\Debug\netcoreapp3.1\ComtradeConsole.csproj.CopyComplete
